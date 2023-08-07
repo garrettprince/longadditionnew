@@ -2,7 +2,7 @@ import React from 'react'
 
 function PostDate({ date }) {
   return (
-    <div className='font-bold'>{date}</div>
+    <div className='font-bold text-sm'>{date}</div>
   )
 }
 
